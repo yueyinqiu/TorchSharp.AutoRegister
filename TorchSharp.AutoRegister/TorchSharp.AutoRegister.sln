@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TorchSharp.AutoRegister", "TorchSharp.AutoRegister\TorchSharp.AutoRegister.csproj", "{BF3E0B8F-599D-4C73-99F5-D8D9C238A4F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{48284A79-0DEA-42EA-8D54-8E4EA8CA1982}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF3E0B8F-599D-4C73-99F5-D8D9C238A4F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF3E0B8F-599D-4C73-99F5-D8D9C238A4F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF3E0B8F-599D-4C73-99F5-D8D9C238A4F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF3E0B8F-599D-4C73-99F5-D8D9C238A4F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48284A79-0DEA-42EA-8D54-8E4EA8CA1982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48284A79-0DEA-42EA-8D54-8E4EA8CA1982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48284A79-0DEA-42EA-8D54-8E4EA8CA1982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48284A79-0DEA-42EA-8D54-8E4EA8CA1982}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F903DF0C-DF34-4517-9E8D-2EC72565C9BE}
+	EndGlobalSection
+EndGlobal
